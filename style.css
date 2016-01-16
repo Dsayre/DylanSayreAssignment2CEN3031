@@ -1,0 +1,13 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+body {
+	background-color: blue; 
+	color: orange; 
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
